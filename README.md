@@ -45,7 +45,7 @@
 	4. For subtype such as COAD and READ, the subtype was inferred based on CMSclassifier. 
 		In our package, we directly called the CMSclassifer for the classification.
 
-	Please contact Tenghui Chen (thchenb@gmail.com) if you may have any questions, any feedbacks would be appreciated.
+Please contact Tenghui Chen (thchenb@gmail.com) if you may have any questions, any feedbacks would be appreciated.
 
 
 
